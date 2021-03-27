@@ -1,5 +1,6 @@
-elements\index.class
-pages\authenticationPage.class
-pages\indexPage.class
-drivers\basePage.class
-elements\authentication.class
+pages\homePage.class
+elements\home.class
+tests\HomePageTest.class
+drivers\BasePage.class
+elements\shop.class
+pages\shopPage.class
